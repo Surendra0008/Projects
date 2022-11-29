@@ -1,6 +1,6 @@
 # Projects
 # 💫 About Me:
-👦 I'm Surendra Karaka ♂️ ♒<br> :computer: Python, Django, Tkinter, html, MYSQL, GitHub, Microsoft office tools :computer_mouse: <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br> 🔍 searching for a job as a software developer 💻<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The most common password for a computer and social media platforms is 123456 💪
+👦 I'm Surendra Karaka ♂️ ♒<br> :computer: Python, Django, Tkinter, Html, MYSQL, GitHub, Microsoft office tools :computer_mouse: <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br> 🔍 searching for a job as a software developer 💻<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The most common password for a computer and social media platforms is 123456 💪
 
 
 ## 🌐 Socials:
